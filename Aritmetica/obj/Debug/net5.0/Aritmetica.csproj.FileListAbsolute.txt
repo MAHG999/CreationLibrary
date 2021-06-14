@@ -1,0 +1,12 @@
+C:\Users\marco\source\repos\Aritmetica\bin\Debug\net5.0\Aritmetica.deps.json
+C:\Users\marco\source\repos\Aritmetica\bin\Debug\net5.0\Aritmetica.dll
+C:\Users\marco\source\repos\Aritmetica\bin\Debug\net5.0\ref\Aritmetica.dll
+C:\Users\marco\source\repos\Aritmetica\bin\Debug\net5.0\Aritmetica.pdb
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.AssemblyInfo.cs
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.dll
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\ref\Aritmetica.dll
+C:\Users\marco\source\repos\Aritmetica\obj\Debug\net5.0\Aritmetica.pdb
